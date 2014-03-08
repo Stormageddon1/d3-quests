@@ -2,7 +2,7 @@
 
 import urllib2, json
 
-bnet = raw_input('Enter your Bnet ID, ex. Name#1234: ')
+bnet = raw_input(Stormagedon#1868)
 bnet = bnet.replace('#', '-')
 acts = ['act1', 'act2', 'act3', 'act4']
 
